@@ -5,21 +5,21 @@ Recursos de criptografía en inglés y español 🌐
 
 ## Índice 📜
 
-1. [Recursos en Español 🇪🇸](#recursos-en-español)
-    - [Criptografía General 👨‍💻](#criptografía-general)
-    - [Zero-Knowledge, FHE y MPC 🔒](#zero-knowledge-fhe-y-mpc)
-    - [Matemáticas para ZK ➗](#matemáticas-para-zk)
-2. [Resources in English 🇬🇧](#resources-in-english)
-    - [Introductory Cryptography 🔐](#introductory-cryptography)
-    - [Zero-Knowledge Proof Resources 🔐](#zero-knowledge-proof-resources)
-        - [General ZK Resources 💡](#general-zk-resources)
-        - [Educational Resources 📚](#educational-resources)
-        - [Books and Papers 📖](#books-and-papers)
-        - [Courses and Tutorials 📚](#courses-and-tutorials)
-        - [Rust-Based ZKP 🦀](#rust-based-zkp)
-        - [Lambda Sparkling Water Bootcamp 🌊](#lambda-sparkling-water-bootcamp)
-        - [Hash-Based ZK-SNARKs 🔑](#hash-based-zk-snarks)
-        - [Binius: Efficient Proofs Over Binary Fields 🔢](#binius-efficient-proofs-over-binary-fields)
+1. [Recursos en Español 🇪🇸](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#recursos-en-espa%C3%B1ol-)
+    - [Criptografía General 👨‍💻](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#criptograf%C3%ADa-general-)
+    - [Zero-Knowledge, FHE y MPC 🔒](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#zero-knowledge-fhe-y-mpc-)
+    - [Matemáticas para ZK ➗](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#matem%C3%A1ticas-para-zk-)
+2. [Resources in English 🇬🇧](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#resources-in-english-)
+    - [Introductory Cryptography 🔐](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#introductory-cryptography-)
+    - [Zero-Knowledge Proof Resources 🔐](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#zero-knowledge-proof-resources-)
+        - [General ZK Resources 💡](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#general-zk-resources-)
+        - [Educational Resources 📚](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#educational-resources-)
+        - [Books and Papers 📖](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#books-and-papers-)
+        - [Courses and Tutorials 📚](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#courses-and-tutorials-)
+        - [Rust-Based ZKP 🦀](#https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#rust-based-zkp-)
+        - [Lambda Sparkling Water Bootcamp 🌊](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#lambda-sparkling-water-bootcamp-)
+        - [Hash-Based ZK-SNARKs 🔑](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#hash-based-zk-snarks-)
+        - [Binius: Efficient Proofs Over Binary Fields 🔢](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#binius-efficient-proofs-over-binary-fields-)
 
 ---
 
