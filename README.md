@@ -16,7 +16,7 @@ Recursos de criptografía en inglés y español 🌐
         - [Educational Resources 📚](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#educational-resources-)
         - [Books and Papers 📖](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#books-and-papers-)
         - [Courses and Tutorials 📚](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#courses-and-tutorials-)
-        - [Rust-Based ZKP 🦀](#https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#rust-based-zkp-)
+        - [Rust-Based ZKP 🦀](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#rust-based-zkp-)
         - [Lambda Sparkling Water Bootcamp 🌊](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#lambda-sparkling-water-bootcamp-)
         - [Hash-Based ZK-SNARKs 🔑](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#hash-based-zk-snarks-)
         - [Binius: Efficient Proofs Over Binary Fields 🔢](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#binius-efficient-proofs-over-binary-fields-)
