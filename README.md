@@ -21,6 +21,8 @@ Recursos de criptografía en inglés y español 🌐
         - [Hash-Based ZK-SNARKs 🔑](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#hash-based-zk-snarks-)
         - [Binius: Efficient Proofs Over Binary Fields 🔢](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#binius-efficient-proofs-over-binary-fields-)
 
+    - [Secure Multi-Party Computation 🔒](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources/edit/main/README.md#secure-multi-party-computation-
+ )
 ---
 
 ## **Recursos en Español 🇪🇸**  
@@ -117,3 +119,9 @@ Recursos de criptografía en inglés y español 🌐
 - **Blogs 📝**  
   - [Vitalik’s Post 🗣️](https://vitalik.eth.limo/general/2024/04/29/binius.html)  
   - [LambdaClass Blog 📝](https://blog.lambdaclass.com/snarks-on-binary-fields-binius/)
+
+### **Secure Multi-Party Computation 🔒**
+
+- [A Crash Course on MPC by Daniel Escudero](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184)
+- [An Introduction to Secret-Sharing-Based Secure Multiparty Computation ](https://eprint.iacr.org/2022/062.pdf)
+- [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/docs/pragmaticmpc.pdf)
