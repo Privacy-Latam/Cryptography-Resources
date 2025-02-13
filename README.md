@@ -124,3 +124,4 @@ Recursos de criptografía en inglés y español 🌐
 - [A Crash Course on MPC by Daniel Escudero](https://medium.com/applied-mpc/a-crash-course-on-mpc-part-0-311fae2ce184)
 - [An Introduction to Secret-Sharing-Based Secure Multiparty Computation ](https://eprint.iacr.org/2022/062.pdf)
 - [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/docs/pragmaticmpc.pdf)
+- [MPC-Notes](https://lcamel.github.io/MPC-Notes/)
