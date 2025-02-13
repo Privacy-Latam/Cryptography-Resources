@@ -21,8 +21,7 @@ Recursos de criptografía en inglés y español 🌐
         - [Hash-Based ZK-SNARKs 🔑](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#hash-based-zk-snarks-)
         - [Binius: Efficient Proofs Over Binary Fields 🔢](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#binius-efficient-proofs-over-binary-fields-)
 
-    - [Secure Multi-Party Computation 🔒](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources/edit/main/README.md#secure-multi-party-computation-
- )
+    - [Secure Multi-Party Computation 🔒](https://github.com/Privacy-Lab-Latam-Builders/Cryptography-Resources?tab=readme-ov-file#secure-multi-party-computation-)
 ---
 
 ## **Recursos en Español 🇪🇸**  
