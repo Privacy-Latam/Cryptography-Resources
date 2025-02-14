@@ -125,3 +125,4 @@ Recursos de criptografía en inglés y español 🌐
 - [An Introduction to Secret-Sharing-Based Secure Multiparty Computation ](https://eprint.iacr.org/2022/062.pdf)
 - [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org/docs/pragmaticmpc.pdf)
 - [MPC-Notes](https://lcamel.github.io/MPC-Notes/)
+- [Secure Multiparty Computation and Secret Sharing - An Information Theoretic Appoach](https://web.archive.org/web/20130622140256/http://www.daimi.au.dk/~ivan/MPCbook.pdf)
