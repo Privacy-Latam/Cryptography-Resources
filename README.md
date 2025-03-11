@@ -75,6 +75,9 @@ Recursos de criptografía en inglés y español 🌐
   - [ZKProof.org 🌐](https://docs.zkproof.org/edu)  
 
 #### **Books and Papers 📖**  
+- **Proofs, Arguments, and Zero-Knowledge**
+  - [YouTube Playlist 🎥](https://www.youtube.com/playlist?list=PLTPK8HRi5qmlIBA7TDTO8hBOprAc1FIQv)  
+  - [Book 📘](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) 
 - **MoonMath Manual 🌙**  
   - [YouTube Playlist 🎥](https://www.youtube.com/watch?v=qKZ-aT0g6N8&list=PLzdJdAunCamkTqcAMupTo2GByJCijJn-1)  
   - [Book 📘](https://github.com/LeastAuthority/moonmath-manual/releases)  
