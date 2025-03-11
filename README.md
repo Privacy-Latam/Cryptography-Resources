@@ -104,7 +104,7 @@ Recursos de criptografía en inglés y español 🌐
 - [YouTube Playlist 🎥](https://m.youtube.com/playlist?list=PLFX2cij7c2Pwm2XHBijKZ6Eh97BOqtGBh)  
 - [GitHub Course 🧑‍💻](https://github.com/lambdaclass/sparkling_water_bootcamp#rust-workshop)  
 
-#### **Hash-Based ZK-SNARKs 🔑**  
+#### **Hash-Based ZK-SNARGs 🔑**  
 - **Hash-Based SNARGs Book 📖**  
   - [GitHub 🧑‍💻](https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf)  
 - **YouTube Playlist 🎥**  
