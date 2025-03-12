@@ -55,7 +55,11 @@ Recursos de criptografía en inglés y español 🌐
   - [Coursera 📚](https://www.coursera.org/learn/crypto)  
   - [Stanford Course Page 🏫](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)  
 - **Number Theory for Cryptography 🔢**  
-  - [Stanford Notes 📖](https://crypto.stanford.edu/pbc/notes/numbertheory/)  
+  - [Stanford Notes 📖](https://crypto.stanford.edu/pbc/notes/numbertheory/)
+- **Programmable cryptography intro book📖**  
+  - [Notes on Programmable Cryptography📖](https://drive.google.com/file/d/1RLDy6nlGwPiIZIlUDqJw4HiFuw5Hw7_K/view?usp=sharing)
+  - [Four Easy Pieces in Programmable Cryptography](https://drive.google.com/file/d/1_UA7eq6ZL-ZXZvEw1KHAF4LM-azzB8rb/view?usp=sharing)
+ 
 
 ---
 
